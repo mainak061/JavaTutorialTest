@@ -165,16 +165,12 @@ public class Tutorial {
 //        for(i=0;i<5;i++);{
 //            System.out.println(arr[i]);
 //        }
-        int a = 10;
-        int arr[];
-        int i;
-        System.out.println("Enter data");
-        for(i=0; i< a; i++)
-        {
-            arr[]=sc.nextInt();
-        }
-
-
-
+//        int a = 10;
+//        int arr[];
+//        int i;
+//        System.out.println("Enter data");
+//        for(i=0; i< a; i++)
+//        {
+//            arr[]=sc.nextInt();
     }
 }
