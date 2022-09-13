@@ -1,9 +1,12 @@
 import javax.swing.*;
+import java.io.FilterOutputStream;
 import java.util.*;
 import java.util.Scanner;
+import java.math.*;
 
 public class Tutorial {
     public static void main(String[] args) {
+
 //        float a=3, b=6, c=5, d=8, e=9,s,avg;
 //        s=a+b+c+d+e;
 //        avg=s/5;
@@ -172,5 +175,45 @@ public class Tutorial {
 //        for(i=0; i< a; i++)
 //        {
 //            arr[]=sc.nextInt();
+//        int b;
+//        System.out.println("Name- ");
+//        String name=sc.next();
+//        System.out.println("Age- ");
+//        b=sc.nextInt();
+//        System.out.println("My name is "+name);
+//        System.out.println("My age is "+b);
+//    currency converter
+//        float a,d,p,z;
+//        System.out.println("Enter the INR amount- ");
+//        a= sc.nextFloat();
+//        d=a*79;
+//        p=a*111;
+//        z=a*70;
+//        System.out.println("Amount in USD is- "+d);
+//        System.out.println("Amount in POUND is-  "+p);
+//        System.out.println("Amount in ZEN- "+z);
+//        Reverse a string
+//                String str, rev = "";
+//
+//                str = "mango";
+//                char ch;
+//                System.out.println("Original word- " + str);
+//                for (int i = 0; i < str.length(); i++) {
+//                    ch = str.charAt(i);
+//                    rev = ch + rev;
+//                }
+//                System.out.println("Reverse word- " + rev);
+//       " Math. " function use
+//        double x=Math.sqrt(34);
+//        System.out.println(x);
+//        sum(4.5f);
+//    }
+//
+//    public static void sum(int a) {
+//        System.out.println("Int value is- "+a);
+//    }
+//
+//    public static void sum(float a) {
+//        System.out.println("Float value is- "+a);
     }
 }
